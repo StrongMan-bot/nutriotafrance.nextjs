@@ -1,0 +1,29 @@
+{
+  "title": "Produits",
+  "categories": "Catégories",
+  "allProducts": "Tous les produits",
+  "vitamins": "Vitamines",
+  "supplements": "Compléments alimentaires",
+  "herbalSupplements": "Compléments à base de plantes",
+  "minerals": "Minéraux",
+  "showingAll": "Afficher tous les {{count}} produits",
+  "showingCategory": "Afficher {{count}} produits dans {{category}}",
+  "noProducts": "Aucun produit trouvé",
+  "noProductsDesc": "Essayez de sélectionner une autre catégorie.",
+  "bestSeller": "Les plus vendus",
+  "ratings": "Évaluations",
+  "buyOnAmazon": "Acheter sur Amazon",
+  "backToProducts": "Retour aux Produits",
+  "exploreMoreProducts": "Explorer Plus de Produits",
+  "exploreMoreProductsDesc": "Découvrez notre gamme complète de vitamines et compléments premium",
+  "viewAllProducts": "Voir Tous les Produits",
+  "chatbot": {
+    "title": "Assistant Nutriota",
+    "subtitle": "Comment puis-je vous aider aujourd'hui ?",
+    "footer": "Support Nutriota",
+    "getStarted": "Commencer",
+    "inputPlaceholder": "Entrez votre message ici...",
+    "initialMessage": "Bonjour ! Je suis l'assistant santé IA de Nutriota. Mon objectif est de vous aider à trouver les meilleurs produits pour vos besoins spécifiques. Pour commencer, pourriez-vous me dire ce que vous cherchez ou quelles préoccupations de santé vous avez ?",
+    "bubbleMessage": "Bonjour ! Je peux vous aider à trouver le bon produit"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Dernières actualités santé et mises à jour",
+  "subtitle": "Restez informé des meilleurs conseils sur le bien-être, les découvertes sur la santé et des moyens simples de se sentir au mieux chaque jour",
+  "readFullStory": "Lire l'histoire complète",
+  "backToNews": "Retour à la page principale des actualités",
+  "discoverMore": "Découvrez plus de conseils santé et d'articles sur le bien-être",
+  "articles": {
+    "article1": {
+      "title": "Votre énergie disparaît et vous ne savez même pas pourquoi : La crise cachée des vitamines B",
+      "description": "Vous êtes constamment fatigué ? Le brouillard cérébral vous frappe comme un camion ? Votre corps pourrait crier à l'aide. Découvrez la crise cachée des vitamines B qui draine votre énergie et comment la résoudre.",
+      "category": "Énergie & Bien-être",
+      "date": "15 décembre 2024"
+    },
+    "article2": {
+      "title": "Le secret souterrain que chaque athlète d'élite connaît (mais ne vous dira pas)",
+      "description": "Pendant que vous luttez avec une récupération lente et des progrès stagnants, les professionnels utilisent cette simple formule à 3 ingrédients pour libérer leur potentiel génétique.",
+      "category": "Performance",
+      "date": "12 décembre 2024"
+    },
+    "article3": {
+      "title": "La molécule anti-âge révolutionnaire dont votre médecin ne parle pas",
+      "description": "Découvrez les puissants bienfaits anti-âge de l'acide alpha-lipoïque (ALA) - l'antioxydant universel qui agit au niveau cellulaire pour ralentir le vieillissement de l'intérieur.",
+      "category": "Anti-Âge",
+      "date": "15 janvier 2025"
+    },
+    "article4": {
+      "title": "Magnésium : Le super-minéral que la plupart des gens ne prennent pas assez",
+      "description": "La moitié de toutes les personnes ne prennent pas assez de magnésium ! Ce minéral important vous aide à mieux dormir, maintient vos muscles en fonctionnement et vous donne plus d'énergie. Découvrez si vous avez besoin de plus de magnésium.",
+      "category": "Fondamentaux nutritionnels",
+      "date": "28 décembre 2024"
+    },
+    "article5": {
+      "title": "Pourquoi la vitamine B1 (thiamine) est essentielle pour le métabolisme énergétique",
+      "description": "La vitamine de l'énergie dont personne ne parle (mais devrait !) Vous vous sentez vidé à mi-journée ? Avant de saisir le prochain café, parlons de la vitamine qui pourrait changer à jamais votre jeu énergétique : la vitamine B1, aussi connue sous le nom de thiamine.",
+      "category": "Recherche sur la santé",
+      "date": "02 septembre 2025"
+    },
+    "article6": {
+      "title": "Vitamine B6 : La \"vitamine de l'humeur\"",
+      "description": "La vitamine du bonheur qui se cache. Et s'il y avait une vitamine qui contrôle directement à quel point vous vous sentez heureux, calme et équilibré chaque jour ? Connaissez la vitamine B6—l'héros non célébré de votre bien-être mental.",
+      "category": "Santé mentale",
+      "date": "15 juin 2025"
+    }
+  }
+}

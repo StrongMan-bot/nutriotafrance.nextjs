@@ -1,0 +1,326 @@
+{
+  "header": {
+    "products": "Produits",
+    "news": "Actualités",
+    "about": "À propos",
+    "contact": "Contact",
+    "searchPlaceholder": "Rechercher des produits...",
+    "language": "Français"
+  },
+  "hero": {
+    "slide1": {
+      "title": "Découvrez le pouvoir de la nutrition avec Nutriota.",
+      "subtitle": "Nous offrons une gamme de vitamines, minéraux et compléments alimentaires conçus pour répondre aux différents besoins de santé individuels.",
+      "shopNow": "Acheter maintenant"
+    },
+    "slide2": {
+      "title": "Nutriota Sport est arrivé !",
+      "subtitle": "Prêt à performer !",
+      "shopNow": "Acheter maintenant"
+    }
+  },
+  "about": {
+    "title": "Qui est Nutriota",
+    "description1": "Chez Nutriota, nous croyons que la vie est un voyage où le temps est précieux. C'est pourquoi nous nous engageons à fournir des compléments alimentaires de haute qualité et scientifiquement validés qui vous aident à donner le meilleur de vous-même dans tous les aspects de la vie.",
+    "description2": "Découvrez comment nous aidons des milliers de personnes au Royaume-Uni et en Europe à atteindre leur plein potentiel grâce à l'excellence nutritionnelle.",
+    "discoverUs": "Découvrez-en plus"
+  },
+  "bestSellers": {
+    "title": "Les plus vendus",
+    "subtitle": "Découvrez nos compléments alimentaires les plus populaires, auxquels des milliers de clients font confiance"
+  },
+  "whyNutriota": {
+    "title": "Pourquoi Nutriota ?",
+    "lovedOnAmazon": {
+      "title": "Aimé sur Amazon",
+      "description": "Notre présence sur Amazon nous connecte avec des acheteurs exigeants qui soutiennent nos produits. D'innombrables avis positifs et des évaluations élevées nous ont donné une réputation d'excellence."
+    },
+    "moneyBackGuarantee": {
+      "title": "GARANTIE 100% REMBOURSÉ",
+      "description": "Aimez le produit ou garantie 100% remboursé. Nous garantissons la qualité et si vous n'êtes pas complètement satisfait, nous vous remboursons le prix intégral. La garantie à vie de Nutriota s'applique à tous les achats."
+    },
+    "carefullyManufactured": {
+      "title": "Fabriqué avec soin",
+      "description": "Nos compléments alimentaires sont soigneusement formulés, combinant recherche et ingrédients de haute qualité pour des produits efficaces et sûrs qui dépassent toutes les attentes."
+    }
+  },
+  "testimonials": {
+    "title": "Ce que disent les gens"
+  },
+  "learnNews": {
+    "title": "Apprendre & Actualités",
+    "subtitle": "Découvrez des conseils pratiques sur le bien-être et restez informé des dernières découvertes de la science nutritionnelle",
+    "readMore": "Lire plus"
+  },
+  "footer": {
+    "tagline": "Compléments alimentaires propres et transparents pour les modes de vie modernes. Votre bien-être quotidien, simplifié.",
+    "quickLinks": "Liens rapides",
+    "companyInfo": "Informations sur l'entreprise",
+    "companyName": "DZH B.V.",
+    "companyAddress1": "UE/EU : DZH B.V.",
+    "companyAddress2": "Kingsfordweg 151",
+    "companyAddress3": "1043 GR Amsterdam",
+    "companyAddress4": "Pays-Bas",
+    "phone": "Téléphone",
+    "phoneNumber": "+31 (0)6167 06036",
+    "companyDescription": "DZH B.V. est le partenaire de distribution officiel de Nutriota dans l'UE.",
+    "copyright": "© 2025 Nutriota. Tous droits réservés.",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsConditions": "Termes et conditions"
+  },
+  "newsletter": {
+    "title": "Restez informé avec Nutriota",
+    "subtitle": "Rejoignez notre communauté et recevez les meilleurs conseils sur le bien-être, les insights sur la santé et les offres exclusives directement dans votre boîte de réception.",
+    "namePlaceholder": "Entrez votre nom complet",
+    "emailPlaceholder": "Entrez votre adresse e-mail",
+    "subscribe": "S'abonner maintenant",
+    "subscribing": "Abonnement en cours...",
+    "subscribeSuccess": "Merci de vous être abonné à notre newsletter !",
+    "subscribeError": "Quelque chose s'est mal passé. Veuillez réessayer plus tard.",
+    "agreementText": "En vous abonnant, vous acceptez nos",
+    "and": "et"
+  },
+  "products": {
+    "title": "Produits",
+    "categories": "Catégories",
+    "allProducts": "Tous les produits",
+    "vitamins": "Vitamines",
+    "supplements": "Compléments alimentaires",
+    "herbalSupplements": "Compléments à base de plantes",
+    "minerals": "Minéraux",
+    "showingAll": "Afficher tous les {{count}} produits",
+    "showingCategory": "Afficher {{count}} produits dans {{category}}",
+    "noProducts": "Aucun produit trouvé",
+    "noProductsDesc": "Essayez de sélectionner une autre catégorie.",
+    "bestSeller": "Les plus vendus",
+    "ratings": "Évaluations",
+    "buyOnAmazon": "Acheter sur Amazon"
+  },
+  "contact": {
+    "title": "Vous ne trouvez pas les réponses que vous cherchez ?",
+    "subtitle": "ÉCRIVEZ-NOUS !",
+    "getInTouch": "Entrer en contact",
+    "emailTitle": "Envoyer un e-mail",
+    "emailSubtitle": "Envoyez-nous un e-mail à tout moment",
+    "addressTitle": "Venez nous rendre visite",
+    "addressSubtitle": "Notre siège social",
+    "responseTime": "Temps de réponse",
+    "responseTimeText": "Nous répondons généralement à toutes les demandes dans les 24 heures en jours ouvrables.",
+    "name": "Nom",
+    "email": "E-mail",
+    "message": "Message",
+    "namePlaceholder": "Entrez votre nom complet",
+    "emailPlaceholder": "Entrez votre adresse e-mail",
+    "messagePlaceholder": "Dites-nous comment nous pouvons vous aider...",
+    "privacyAccept": "J'ai lu et j'accepte la",
+    "and": "et",
+    "sendMessage": "Envoyer le message",
+    "sending": "Envoi en cours...",
+    "successMessage": "Merci pour votre message ! Nous vous répondrons bientôt.",
+    "errorMessage": "Quelque chose s'est mal passé. Veuillez réessayer plus tard.",
+    "privacyRequired": "Veuillez accepter les Termes et conditions et la Politique de confidentialité pour continuer."
+  },
+  "news": {
+    "title": "Dernières actualités santé et mises à jour",
+    "subtitle": "Restez informé des meilleurs conseils sur le bien-être, les découvertes sur la santé et des moyens simples de se sentir au mieux chaque jour",
+    "readFullStory": "Lire l'histoire complète",
+    "backToNews": "Retour à la page principale des actualités",
+    "discoverMore": "Découvrez plus de conseils santé et d'articles sur le bien-être"
+  },
+  "aboutUs": {
+    "hero": {
+      "title": "À propos de nous",
+      "subtitle": "Notre succès commence avec vous à l'esprit",
+      "description": "Chaque jour, nous travaillons avec passion pour fabriquer les meilleurs compléments alimentaires en utilisant uniquement les meilleures matières premières."
+    },
+    "background": {
+      "title": "Contexte",
+      "subtitle": "L'histoire de Jumbostore",
+      "description": "Jumbostore Ltd, une entreprise britannique spécialisée dans la fabrication de compléments alimentaires, a une marque remarquable appelée Nutriota. Nos produits, qui proviennent d'origines modestes, ont connu une grande popularité et sont aujourd'hui appréciés dans plus de 5 pays dans le monde."
+    },
+    "dzh": {
+      "title": "DZH B.V. - Les distributeurs",
+      "description": "DZH B.V., basée aux Pays-Bas, s'est parfaitement intégrée dans le réseau mondial de Jumbostore Ltd. Peu avant la sortie du Royaume-Uni de l'Union européenne, DZH B.V. a été fondée dans le but de satisfaire la demande du marché UE pour les produits de Jumbostore Ltd., qui incluent des marques populaires comme Nutriota et Earthly Nutrition.",
+      "service": "Notre engagement envers un service client exceptionnel reste inébranlable. Que vous soyez un grossiste, un détaillant ou un client privé, notre équipe amicale est toujours prête à satisfaire vos souhaits de produits et à répondre à vos demandes."
+    },
+    "mission": {
+      "title": "NOTRE MISSION",
+      "subtitle": "Poussez votre voyage vers un vous-même plus sain",
+      "paragraph1": "Chez Nutriota, nous ouvrons nos bras pour accueillir la joie de vivre et motiver les gens à atteindre leur plus haut potentiel en fournissant des compléments alimentaires de haute qualité et efficaces.",
+      "paragraph2": "Nous croyons en la promotion des capacités uniques de chaque individu et nous voulons que notre nutrition fasse partie de leur voyage de découverte vers la version la plus saine d'eux-mêmes.",
+      "bringJoy": "Apporter la joie",
+      "wellness": {
+        "title": "Autonomiser le bien-être",
+        "description": "Nutriota est une marque émergente de compléments alimentaires qui permet aux gens de réaliser leur potentiel grâce à une excellente nutrition. Notre expertise nutritionnelle garantit que nous offrons des vitamines et minéraux de la plus haute qualité dans tout le Royaume-Uni et en Europe."
+      }
+    },
+    "vision": {
+      "title": "NOTRE VISION",
+      "subtitle": "Nutrition pionnière pour une plus grande vitalité.",
+      "description": "Nous voulons mener un mouvement mondial pour le bien-être et la vitalité. Nous aspirons à être à l'avant-garde de la science nutritionnelle et à offrir des compléments alimentaires innovants et scientifiquement validés qui aident les gens à mener une vie plus saine, plus active et plus équilibrée.",
+      "paragraph2": "Nous imaginons un monde où le plus grand nombre de personnes possible ont les ressources et les connaissances pour nourrir leur corps, leur esprit et leur âme, réaliser leur potentiel et atteindre leur meilleur personnel."
+    }
+  },
+  "chatbot": {
+    "initialMessage": "Bonjour ! Je suis l'assistant santé de Nutriota. Quels compléments alimentaires cherchez-vous ou quel objectif de santé puis-je vous aider à atteindre ?",
+    "title": "Assistant santé de Nutriota",
+    "subtitle": "Commencez une conversation. Nous sommes là pour vous aider 24/7.",
+    "footer": "Développé et maintenu par VIRRTECH ; virrtech.com",
+    "getStarted": "Nouvelle conversation",
+    "inputPlaceholder": "Entrez votre question...",
+    "bubbleMessage": "Bonjour ! Je peux vous aider à trouver le bon produit"
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "introduction": "Introduction",
+    "introText": "Nous nous engageons à protéger vos données personnelles et à garantir la conformité avec les réglementations mondiales sur la confidentialité, y compris le Règlement général sur la protection des données (RGPD), le California Consumer Privacy Act (CCPA) et d'autres lois applicables. Cette Politique de confidentialité décrit comment nous collectons, utilisons, stockons et protégeons vos informations personnelles.",
+    "informationWeCollect": "Informations que nous collectons",
+    "informationWeCollectText": "Nous collectons des informations que vous nous fournissez directement, y compris :",
+    "personalInfo": "Informations personnelles : nom, adresse e-mail, numéro de téléphone, adresse de facturation et détails de paiement lorsque vous créez un compte, effectuez un achat ou nous contactez.",
+    "usageData": "Données d'utilisation : informations sur la façon dont vous interagissez avec notre site web, comme l'adresse IP, le type de navigateur, les informations sur l'appareil, les pages visitées et le temps passé sur nos services.",
+    "cookies": "Cookies et technologies de suivi : nous utilisons des cookies, des web beacons et des technologies similaires pour améliorer votre expérience, analyser l'utilisation et fournir du contenu personnalisé.",
+    "howWeUse": "Comment nous utilisons vos informations",
+    "howWeUseText": "Nous utilisons vos informations pour :",
+    "provideServices": "Fournir, maintenir et améliorer nos services et la fonctionnalité du site web.",
+    "processTransactions": "Traiter les transactions et exécuter les commandes.",
+    "communicate": "Communiquer avec vous, y compris répondre aux demandes et envoyer des mises à jour liées au service.",
+    "personalize": "Personnaliser votre expérience grâce à du contenu et de la publicité sur mesure.",
+    "monitor": "Surveiller et analyser les modèles d'utilisation pour améliorer nos services.",
+    "comply": "Se conformer aux obligations légales et faire respecter nos politiques.",
+    "contact": "Contact",
+    "contactText": "Si vous avez des questions ou des préoccupations concernant cette Politique de confidentialité ou souhaitez exercer vos droits de confidentialité, contactez-nous :",
+    "contactEmail": "E-mail : enschede@dzhbv.nl",
+    "contactAddress": "Kingsfordweg 151, 1043 GR, Amsterdam, Pays-Bas",
+    "legalBasisTitle": "Base légale pour le traitement (RGPD)",
+    "legalBasisText": "Pour les utilisateurs de l'Espace économique européen (EEE), nous traitons les données personnelles sur la base des bases légales suivantes :",
+    "consentTitle": "Consentement",
+    "consentText": "Lorsque vous avez donné un consentement explicite à des fins spécifiques, comme le marketing.",
+    "contractTitle": "Nécessité contractuelle",
+    "contractText": "Pour remplir nos obligations contractuelles, comme le traitement des paiements.",
+    "legalTitle": "Obligation légale",
+    "legalText": "Pour se conformer aux lois et réglementations applicables.",
+    "legitimateTitle": "Intérêts légitimes",
+    "legitimateText": "Pour des fins comme l'amélioration de nos services ou la prévention de la fraude, lorsque nos intérêts ne prévalent pas sur vos droits.",
+    "infoSharingTitle": "Partage d'informations",
+    "infoSharingText": "Nous ne vendons, n'échangeons ni ne transférons vos informations personnelles à des tiers sans votre consentement, sauf dans les cas suivants :",
+    "serviceProvidersTitle": "Fournisseurs de services",
+    "serviceProvidersText": "Nous partageons des données avec des fournisseurs tiers de confiance qui aident avec des services comme le traitement des paiements, l'hébergement ou l'analyse sous des accords de confidentialité stricts.",
+    "legalReqTitle": "Exigences légales",
+    "legalReqText": "Nous pouvons divulguer des informations pour remplir les obligations légales, comme répondre aux ordonnances du tribunal ou aux demandes gouvernementales.",
+    "businessTransferTitle": "Transferts d'entreprise",
+    "businessTransferText": "En cas de fusion, d'acquisition ou de vente d'actifs, vos informations peuvent être transférées dans le cadre de la transaction avec des mesures de protection appropriées.",
+    "dataSecurityTitle": "Sécurité des données",
+    "dataSecurityText": "Nous mettons en œuvre des mesures de sécurité robustes pour protéger vos informations personnelles, y compris :",
+    "encryption": "Chiffrement des données sensibles pendant la transmission et le stockage.",
+    "securityAssessments": "Évaluations de sécurité régulières et mises à jour de nos systèmes.",
+    "accessControls": "Contrôles d'accès pour limiter qui peut voir ou traiter vos données.",
+    "securityNote": "Malgré nos efforts, aucun système n'est complètement sécurisé. En cas de violation de données, nous notifierons les utilisateurs concernés selon les exigences légales.",
+    "rightsTitle": "Vos droits de confidentialité",
+    "rightsText": "Selon votre localisation, vous pourriez avoir les droits suivants sur vos données personnelles :",
+    "accessTitle": "Accès",
+    "accessText": "Demander une copie des données personnelles que nous avons stockées sur vous.",
+    "rectificationTitle": "Rectification",
+    "rectificationText": "Corriger des données inexactes ou incomplètes.",
+    "deletionTitle": "Suppression",
+    "deletionText": "Demander la suppression de vos données, sous réserve des obligations légales.",
+    "restrictionTitle": "Limitation",
+    "restrictionText": "Demander que nous limitions le traitement de vos données.",
+    "portabilityTitle": "Portabilité",
+    "portabilityText": "Recevoir vos données dans un format structuré et lisible par machine.",
+    "objectionTitle": "Objection",
+    "objectionText": "Soulever des objections au traitement basé sur des intérêts légitimes ou pour le marketing direct.",
+    "withdrawTitle": "Retrait du consentement",
+    "withdrawText": "Retirer votre consentement à tout moment lorsque le traitement est basé sur le consentement.",
+    "contactRights": "Pour exercer ces droits, contactez-nous avec les détails ci-dessous.",
+    "internationalTitle": "Transferts internationaux de données",
+    "internationalText": "Vos données peuvent être transférées et traitées dans des pays en dehors de votre juridiction, y compris les États-Unis. Nous nous assurons que ces transferts respectent les lois applicables, en utilisant des mécanismes comme les Clauses contractuelles standard (CCS) pour les données EEE.",
+    "retentionTitle": "Conservation des données",
+    "retentionText": "Nous conservons vos données personnelles seulement le temps nécessaire pour remplir les objectifs décrits dans cette politique ou selon les exigences légales. Par exemple, nous conservons les informations de compte tant que votre compte est actif et pour une période raisonnable après pour remplir les obligations légales.",
+    "cookiesTitle": "Cookies et technologies de suivi",
+    "cookiesText": "Nous utilisons des cookies pour améliorer votre expérience. Vous pouvez gérer les paramètres des cookies via les paramètres de votre navigateur. Les cookies essentiels sont nécessaires pour la fonctionnalité du site web, tandis que les cookies optionnels supportent l'analyse et le contenu personnalisé.",
+    "thirdPartyTitle": "Liens vers des tiers",
+    "thirdPartyText": "Notre site web peut contenir des liens vers des sites web de tiers. Nous ne sommes pas responsables des pratiques de confidentialité de ces sites web. Nous vous encourageons à examiner leurs politiques de confidentialité.",
+    "updatesTitle": "Mises à jour de cette politique",
+    "updatesText": "Nous pouvons mettre à jour cette Politique de confidentialité pour refléter les changements dans nos pratiques ou les exigences légales. Nous vous informerons des changements significatifs par e-mail ou par un avis proéminent sur notre site web."
+  },
+  "carousel": {
+    "vitamins": {
+      "title": "Vitamines",
+      "description": "Nutriments essentiels pour une santé et un bien-être optimaux"
+    },
+    "supplements": {
+      "title": "Compléments alimentaires", 
+      "description": "Compléments alimentaires de haute qualité pour chaque mode de vie"
+    },
+    "herbalSupplements": {
+      "title": "Compléments à base de plantes",
+      "description": "Remèdes à base de plantes naturelles pour le bien-être holistique"
+    },
+    "minerals": {
+      "title": "Minéraux",
+      "description": "Éléments fondamentaux de la nature, livrés pour la vie moderne"
+    }
+  },
+  "terms": {
+    "title": "Termes et conditions",
+    "subtitle": "Veuillez lire attentivement ces conditions d'utilisation avant d'utiliser notre site",
+    "seo": {
+      "title": "Termes et conditions - Nutriota",
+      "description": "Lisez nos termes et conditions pour l'utilisation du site web et des services Nutriota.",
+      "keywords": "termes, conditions, légal, Nutriota, compléments alimentaires, site web"
+    },
+    "introduction": "Bienvenue sur le site web de Nutriota (notre site). Veuillez lire attentivement ces conditions d'utilisation avant de commencer à utiliser le site. En utilisant notre site, vous indiquez que vous acceptez et respectez ces conditions d'utilisation. Si vous n'êtes pas d'accord avec ces conditions d'utilisation, veuillez vous abstenir d'utiliser notre site.",
+    "section1": {
+      "title": "1. INFORMATIONS SUR NOUS",
+      "content": "Nutriota est spécialisée dans la fourniture de compléments alimentaires de haute qualité."
+    },
+    "section2": {
+      "title": "2. ACCÈS À NOTRE SITE",
+      "content": "L'accès à notre site est autorisé temporairement et nous nous réservons le droit de retirer ou de modifier le service que nous fournissons sur notre site sans préavis. Nous ne serons pas responsables si notre site n'est pas disponible pour quelque raison que ce soit à tout moment ou pour toute période."
+    },
+    "section3": {
+      "title": "3. EXACTITUDE DES INFORMATIONS ET CLAUSE DE NON-RESPONSABILITÉ",
+      "content": "Les informations sur notre site sont fournies uniquement à des fins d'information générale et ne doivent pas être utilisées comme base pour des décisions concernant la santé ou le bien-être. Nous nous efforçons d'être exacts, mais nous ne fournissons aucune garantie ou assurance concernant l'exhaustivité ou l'exactitude des informations sur notre site. Nous ne serons pas responsables des pertes ou dommages résultant de la confiance dans les informations sur notre site."
+    },
+    "section4": {
+      "title": "4. LIENS VERS D'AUTRES SITES",
+      "content": "Nous pouvons fournir des liens vers d'autres sites web pour votre commodité. Nous ne sommes pas responsables du contenu de ces sites web liés et n'approuvons ni ne garantissons leur exactitude. Accédez à ces sites web liés à vos propres risques."
+    },
+    "section5": {
+      "title": "5. PROPRIÉTÉ INTELLECTUELLE",
+      "content": "Tous les droits de propriété intellectuelle affichés sur notre site appartiennent à Nutriota. Vous ne devez pas modifier, publier, transmettre ou créer des œuvres dérivées basées sur le contenu de notre site sans notre autorisation explicite."
+    },
+    "section6": {
+      "title": "6. ACCÈS AU SERVICE",
+      "content": "Bien que nous nous efforcions de nous assurer que notre site soit normalement disponible 24 heures sur 24, nous ne serons pas responsables si notre site n'est pas disponible pour quelque raison que ce soit à tout moment ou pour toute période."
+    },
+    "section7": {
+      "title": "7. INSCRIPTION",
+      "content": "Si vous souhaitez vous inscrire sur notre site, vous devez avoir au moins 18 ans. Vous êtes responsable de la confidentialité de votre compte et de votre mot de passe et de limiter l'accès à votre ordinateur."
+    },
+    "section8": {
+      "title": "8. VIRUS, PIRATAGE ET AUTRES VIOLATIONS",
+      "content": "Vous ne devez pas abuser de notre site en introduisant sciemment des virus, des chevaux de Troie, des vers, des bombes logiques ou d'autres matériaux nuisibles ou technologiquement nuisibles. Vous ne devez pas tenter d'obtenir un accès non autorisé à notre site."
+    },
+    "section9": {
+      "title": "9. POLITIQUE D'UTILISATION ACCEPTABLE",
+      "content": "Vous ne pouvez utiliser notre site que à des fins légitimes. Vous ne devez pas utiliser notre site d'une manière qui viole les lois ou réglementations applicables."
+    },
+    "section10": {
+      "title": "10. EXCLUSION DU SITE",
+      "content": "Nous nous réservons le droit d'exclure quiconque de notre site à notre discrétion de manière permanente ou temporaire."
+    },
+    "section11": {
+      "title": "11. JURIDICTION LÉGALE ET RÉSOLUTION DES CONTROVERSES",
+      "content": "Ces conditions sont soumises à la loi anglaise et doivent être interprétées conformément à la loi anglaise. Les tribunaux d'Angleterre ont juridiction exclusive pour résoudre les controverses qui peuvent survenir de ces conditions ou en relation avec elles."
+    },
+    "section12": {
+      "title": "12. CONFIDENTIALITÉ",
+      "content": "Nous traitons les informations vous concernant conformément à notre Politique de confidentialité. En utilisant notre site, vous acceptez un tel traitement."
+    },
+    "section13": {
+      "title": "13. INFORMATIONS SUPPLÉMENTAIRES",
+      "content": "Pour plus d'informations sur ces conditions ou pour des questions, contactez-nous via la page de contact."
+    }
+  }
+}

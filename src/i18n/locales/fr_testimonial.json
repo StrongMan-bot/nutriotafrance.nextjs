@@ -1,0 +1,35 @@
+{
+  "title": "Ce que disent les clients",
+  "testimonials": [
+    {
+      "name": "reda",
+      "gender": "female",
+      "title": "Efficace",
+      "quote": "Je commande cette marque de propolis depuis plusieurs mois pour moi et ma famille et j'en suis satisfait. J'en prend tout les jours pour un boost d'énergie. Ma mère l'utilise pour son allergie et depuis elle en a moins. Je recommande très vivement ce produit."
+    },
+    {
+      "name": "MIMOUN",
+      "gender": "female",
+      "title": "Efficace",
+      "quote": "J'utilise cette marque de propolis depuis 2 ans et demi suite a une brulure d'estomac tres efficace je recommande ce produit"
+    },
+    {
+      "name": "NC",
+      "gender": "male",
+      "title": "An effective product",
+      "quote": "Having GERD problems not resolved by PPIs, I turned to this product without much conviction. To my surprise the symptoms are alleviated. I am finally breathing properly and I no longer have heartburn. I recommend"
+    },
+    {
+      "name": "Sylvain 06",
+      "gender": "male",
+      "title": "A simple, well-dosed and economical chromium supplement",
+      "quote": "Nutriota offers a reassuring overall quality. Their product is vegan, made to high manufacturing standards (GMP), and is a reliable, well-formulated, and affordable supplement. It's an economical product that's very well tolerated with no side effects."
+    },
+    {
+      "name": "Espresso no Stresso",
+      "gender": "female",
+      "title": "Très bon complément à petit format pratique",
+      "quote": "Mon copain utilise régulièrement du chrome sous forme de picolinate, et ce produit lui convient très bien. La concentration est correcte (250 mcg), le format est compact et permet une cure sur une longue période, avec un seul comprimé par jour. Les comprimés sont faciles à avaler et le flacon ne prend pas de place. Idéal pour celles et ceux qui cherchent à compléter leur apport en chrome dans un format végétalien. Très bon rapport qualité/prix."
+    }
+  ]
+}

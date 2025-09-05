@@ -1,0 +1,35 @@
+{
+  "title": "What Customers Say",
+  "testimonials": [
+    {
+      "name": "reda",
+      "gender": "female",
+      "title": "Effective",
+      "quote": "I have been ordering this brand of propolis for several months for myself and my family and I am satisfied with it. I take it every day for an energy boost. My mother uses it for her allergy and since then she has less. I highly recommend this product."
+    },
+    {
+      "name": "MIMOUN",
+      "gender": "female",
+      "title": "Effective",
+      "quote": "I have been using this brand of propolis for 2 and a half years following a stomach burn. Very effective, I recommend this product."
+    },
+    {
+      "name": "NC",
+      "gender": "male",
+      "title": "An effective product",
+      "quote": "Having GERD problems not resolved by PPIs, I turned to this product without much conviction. To my surprise the symptoms are alleviated. I am finally breathing properly and I no longer have heartburn. I recommend"
+    },
+    {
+      "name": "Sylvain 06",
+      "gender": "male",
+      "title": "A simple, well-dosed and economical chromium supplement",
+      "quote": "Nutriota offers a reassuring overall quality. Their product is vegan, made to high manufacturing standards (GMP), and is a reliable, well-formulated, and affordable supplement. It's an economical product that's very well tolerated with no side effects."
+    },
+    {
+      "name": "Espresso no Stresso",
+      "gender": "female",
+      "title": "Very good supplement in a practical small format",
+      "quote": "My boyfriend regularly uses chromium in the form of picolinate, and this product suits him very well. The concentration is correct (250 mcg), the format is compact and allows for a long-term treatment, with only one tablet per day. The tablets are easy to swallow and the bottle doesn't take up space. Ideal for those looking to supplement their chromium intake in a vegan format. Very good value for money."
+    }
+  ]
+}

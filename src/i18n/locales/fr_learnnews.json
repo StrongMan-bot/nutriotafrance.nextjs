@@ -1,0 +1,22 @@
+{
+  "title": "Apprendre & Actualités",
+  "subtitle": "Découvrez des conseils pratiques sur le bien-être et restez informé des dernières découvertes de la science nutritionnelle",
+  "readMore": "Lire plus",
+  "articles": [
+    {
+      "title": "Votre énergie disparaît et vous ne savez même pas pourquoi : La crise cachée des vitamines B",
+      "snippet": "Vous êtes constamment fatigué ? Le brouillard cérébral vous frappe comme un camion ? Découvrez la crise cachée des vitamines B qui draine votre énergie et comment la résoudre.",
+      "category": "Énergie & Bien-être"
+    },
+    {
+      "title": "Le secret souterrain que chaque athlète d'élite connaît (mais ne vous dira pas)",
+      "snippet": "Pendant que vous luttez avec une récupération lente et des progrès stagnants, les professionnels utilisent cette simple formule à 3 ingrédients pour libérer leur potentiel génétique.",
+      "category": "Performance"
+    },
+    {
+      "title": "La molécule anti-âge révolutionnaire dont votre médecin ne parle pas",
+      "snippet": "Découvrez les puissants bienfaits anti-âge de l'acide alpha-lipoïque (ALA) - l'antioxydant universel qui agit au niveau cellulaire.",
+      "category": "Anti-Âge"
+    }
+  ]
+}
