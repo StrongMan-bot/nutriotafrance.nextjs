@@ -10,7 +10,7 @@ const Products = () => {
   const { t, i18n } = useTranslation('products');
   const router = useRouter();
   const { search, category } = router.query;
-  const [selectedCategory, setSelectedCategory] = useState(t('allProducts'));
+  const [selectedCategory, setSelectedCategory] = useState('');
   const [filteredProducts, setFilteredProducts] = useState<any[]>([]);
 
 
@@ -49,6 +49,20 @@ const Products = () => {
   ];
 
   const categories = [t('allProducts'), t('minerals'), t('supplements')];
+
+  // Initialize selectedCategory when translations are ready
+  useEffect(() => {
+    if (!selectedCategory && t('allProducts')) {
+      setSelectedCategory(t('allProducts'));
+    }
+  }, [t, selectedCategory]);
+
+  // Handle language changes - reset to "All Products" if no category in URL
+  useEffect(() => {
+    if (!category && t('allProducts')) {
+      setSelectedCategory(t('allProducts'));
+    }
+  }, [i18n.language, t, category]);
 
   // Handle category filtering from URL params
   useEffect(() => {
